@@ -14,14 +14,12 @@ Explore
 
 **社区主页**  
 
-- [Bilibili](https://space.bilibili.com/26995758)
-- [知乎](https://www.zhihu.com/people/woniuppp)
 - [掘金](https://juejin.cn/user/1556564194370270)
 
 **擅长:**  
 
 
-<img height="150" src="https://pandafe.gitee.io/clock/img/wechat1.jpg" />
+
 <!--
 **shengxinjing/shengxinjing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
